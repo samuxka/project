@@ -82,7 +82,7 @@ const Hero = () => {
               >
                 Explore My Work
               </button>
-              <a 
+              {/* <a 
                 href="#quote" 
                 className="btn btn-outline"
                 onClick={(e) => {
@@ -91,7 +91,7 @@ const Hero = () => {
                 }}
               >
                 Request Quote
-              </a>
+              </a> */}
             </div>
           </div>
           
