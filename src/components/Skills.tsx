@@ -11,7 +11,6 @@ const skills: Skill[] = [
   { name: 'Adobe Photoshop', proficiency: 70, icon: '🎨' },
   { name: 'Adobe Illustrator', proficiency: 60, icon: '✏️' },
   { name: 'CorelDraw', proficiency: 85, icon: '📖' },
-  { name: 'Figma', proficiency: 67, icon: '🖌️' },
   { name: 'Typography', proficiency: 90, icon: '🔠' },
   { name: 'Color Theory', proficiency: 95, icon: '🎭' },
   { name: 'UI/UX Design', proficiency: 85, icon: '🖥️' },
