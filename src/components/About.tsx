@@ -77,7 +77,7 @@ const About = () => {
             </div>
 
             <div className="flex gap-4 pt-4">
-              <a
+              {/* <a
                 href="#quote"
                 className="btn btn-primary"
                 onClick={(e) => {
@@ -86,7 +86,7 @@ const About = () => {
                 }}
               >
                 Request Quote
-              </a>
+              </a> */}
               <a
                 href="#contact"
                 className="btn btn-outline"
