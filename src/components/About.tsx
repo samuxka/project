@@ -68,7 +68,7 @@ const About = () => {
               </div>
               <div>
                 <h4 className="font-bold">Location:</h4>
-                <p>Torres Vedras, Portugal</p>
+                <p>Lisbon, Portugal</p>
               </div>
               <div>
                 <h4 className="font-bold">Availability:</h4>
